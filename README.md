@@ -1,16 +1,12 @@
-## Hi there 👋
+## Son Seong min
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjeotjdals)](https://solved.ac/rjeotjdals/)
 
-<!--
-**sonsungmin98/sonsungmin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+[작업물 보러가기](https://github.com/sonsungmin98/Portfolio)
